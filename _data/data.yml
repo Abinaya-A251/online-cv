@@ -37,12 +37,6 @@ career-profile:
      To secure a challenging position in an organization like yours to enhance my knowledge and provide 
      my efficiency to the fillest to grow along with your organization.
 
-experience:
-    title: Experience
-    summary: |
-    Worked as an intern at Freshkite for c and python problem solving trainer
-
-
 education:
     - degree: B.E - Computer Science and Engineering
       university: KIT-Klaihnarkarunanidhi Institue of Technology 
@@ -51,6 +45,12 @@ education:
     - degree: Higher Secondary
       university: VAT Trust Matriculation Higher Secondary School
       time: 2016 - 2018
+experiences:
+    - role: Trainer
+      time : March 2022 - Present
+      company: Freshkite
+      details: |
+      Worked as a trainer for C and Python Problem Solving and aptitude basic maths
 
 skills:
     title: Skills &amp; Proficiency
