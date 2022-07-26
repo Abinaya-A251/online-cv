@@ -45,12 +45,14 @@ education:
     - degree: Higher Secondary
       university: VAT Trust Matriculation Higher Secondary School
       time: 2016 - 2018
+
 experiences:
     - role: Trainer
       time : March 2022 - Present
       company: Freshkite
       details: |
       Worked as a trainer for C and Python Problem Solving and aptitude basic maths
+
 
 skills:
     title: Skills &amp; Proficiency
