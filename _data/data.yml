@@ -15,6 +15,21 @@ sidebar:
     email: aabinayaantony251@gmail.com
     phone: 8220391891
 
+    languages:
+      - idiom: English
+        level: native
+
+      - idiom: Tamil
+        level: native
+
+      - idiom: kannada
+        level: native
+    interests:
+      - item: Singing
+        link:
+      
+      - item: Drawing
+        link:
 
 career-profile:
     title: Career Profile
@@ -23,8 +38,12 @@ career-profile:
      my efficiency to the fillest to grow along with your organization.
 education:
     - degree: B.E - Computer Science and Engineering
-      university:KIT-Klaihnarkarunanidhi Institue of Technology 
+      university: KIT-Klaihnarkarunanidhi Institue of Technology 
       time: 2018 - 2022
+
+    - degree: Higher Secondary
+      university: VAT Trust Matriculation Higher Secondary School
+      time: 2016 - 2018
 
 skills:
     title: Skills &amp; Proficiency
