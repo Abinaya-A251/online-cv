@@ -8,11 +8,14 @@ sidebar:
     # Profile information
     name: Abinaya
     tagline: Devops Engineer
-    avatar: images.jfif
+    avatar: image.png
 
     # Sidebar links
     email: aabinayaantony251@gmail.com
     phone: 8220391891
+    timezone: India/kolkata
+    citizenship: Indian
+    github: Abinaya-A251
 
     languages:
       - idiom: English
